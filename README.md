@@ -15,3 +15,9 @@
 - Create educational content for students about robotics
 
 📫 Reach me at: gashiriad09@gmail.com
+
+![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/Code-CSS-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/Code-JS-yellow?logo=javascript)
+![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python)
+![WordPress](https://img.shields.io/badge/CMS-WordPress-21759B?logo=wordpress)
