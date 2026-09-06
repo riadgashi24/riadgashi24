@@ -1,13 +1,12 @@
 # Hi, I'm Riad 👋
 
 🚀 Passionate about **Web Development & Robotics**  
-🎓 High School Student | Future Computer Scientist  
-📚 Currently learning **PHP, MySQL, and Python**  
+🎓 High School Student  
 🤖 Robotics enthusiast – Maqueen Plus & Arduino projects  
 
 ### 🔧 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** PHP, MySQL
+- **Backend:** PHP, MySQL, Laravel
 - **Other:** WordPress, Python, Mind+
 
 ### 🌱 Current Goals
